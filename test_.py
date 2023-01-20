@@ -4,9 +4,9 @@ from flask import session
 from boggle import Boggle
 
 
-class FlaskTests(TestCase):
+class TestFlask(TestCase):
 
-   class FlaskTests(TestCase):
+   class TestFlask(TestCase):
 
     def setUp(self):
         """Stuff to do before every test."""
